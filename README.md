@@ -2,6 +2,7 @@ Simple Password generator in python
 
 HOW TO RUN IT
 Download Repository zip, open cmd and write:
+
 cd (repository folder)
 python PwGen.py
 
